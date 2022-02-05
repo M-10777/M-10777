@@ -1,3 +1,6 @@
 p, li {
-   font-family: Cambria, serif, "Fandol Song", "\5b8b\4f53";
+   font-family: FandolSong-Regular, Cambria, serif, "Fandol Song", "\5b8b\4f53";
+}
+h1, h2 {
+   font-family: FandolSong-Bold
 }
