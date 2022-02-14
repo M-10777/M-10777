@@ -4,6 +4,10 @@ p, li {
 h1, h2 {
    font-family: FandolSong-Bold;
 }
-pre{
+h1 {
+    color: #375e97;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 1px solid #375e97;
+pre {
   overflow:auto;
 }
