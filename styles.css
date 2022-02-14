@@ -9,5 +9,6 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     border-bottom: 1px solid #375e97;
 pre {
+  width=device-width;
   overflow:stroll;
 }
