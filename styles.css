@@ -1,13 +1,13 @@
 p, li {
-   font-family: "FandolSong Regular", Cambria, Georgia, serif, "Microsoft YaHei";
+   font-family: Cambria, Georgia, serif, "Microsoft YaHei";
 }
 h2 {
-   font-family: "FandolSong Bold";
+   font-family: "Microsoft YaHei";
 }
 h1 {
-    color: #375e97;
-    font-family: "FandolSong Bold", Georgia, 'Times New Roman', Times, serif;
-    border-bottom: 1px solid #375e97;
+    color: #39C5BB;
+    font-family: Georgia, 'Times New Roman', Times, serif, "Microsoft YaHei";
+    border-bottom: 1px solid #39C5BB;
 }
 pre {
   width=device-width;
